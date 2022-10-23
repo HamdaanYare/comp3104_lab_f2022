@@ -2,7 +2,7 @@
   "name": "comp3104_lab_f2022",
   "version": "1.0.0",
   "description": "- GitHub Action Script Added",
-  "main": "index.js",
+  "main": "node.js",
   "dependencies": {
     "acorn": "^6.4.2",
     "abab": "^2.0.6",
